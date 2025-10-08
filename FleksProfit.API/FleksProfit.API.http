@@ -1,0 +1,6 @@
+@FleksProfit.API_HostAddress = http://localhost:5249
+
+GET {{FleksProfit.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
